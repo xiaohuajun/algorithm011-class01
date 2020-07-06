@@ -4,9 +4,10 @@ import java.util.HashMap;
  * @author Danny.
  * @version 1.0
  * @date 2020/7/4 10:03
- * @description
+ * @description 两数之和
  */
 public class TwoSum {
+
   public int[] twoSum(int[] nums, int target) {
     //创建返回数组
     int[] result = new int[2];

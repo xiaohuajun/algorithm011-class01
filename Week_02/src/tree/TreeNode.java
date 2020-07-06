@@ -4,7 +4,7 @@ package tree;
  * @author Danny.
  * @version 1.0
  * @date 2020/7/5 11:06
- * @description
+ * @description 树的节点定义
  */
 public class TreeNode {
 
