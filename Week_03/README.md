@@ -48,6 +48,7 @@ class Solution {
 // merge result:
 // judge  n is odd or even
 ```java
+public class Solution {
 public double  myPow(double x,double n){
     long sn  = n;
     //handle  n  
@@ -55,7 +56,7 @@ public double  myPow(double x,double n){
        x = 1/x;
        sn = -sn; 
     }
-    return fastPow(x,sn)    
+    return fastPow(x,sn);    
 }
 //recursion split sub problem
 public double fastPow(double x,double n){
@@ -69,6 +70,7 @@ public double fastPow(double x,double n){
     }else{
         return half * half;
     }
+}
 }
 ```
 
