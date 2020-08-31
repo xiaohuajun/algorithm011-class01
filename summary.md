@@ -23,7 +23,7 @@
         但即使一个元素的二进制索引全为1，也不能确定这个元素就在内存中。
     3、LRU Cache
 
-算法：
+- 算法：
   1.递归：
     1)terminator
     2)current logic
