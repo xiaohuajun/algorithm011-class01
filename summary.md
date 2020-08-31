@@ -24,47 +24,47 @@
     3、LRU Cache
 
 - 算法：
-  1.递归：
-    1)terminator
-    2)current logic
-    3)drill down
-    4)reverse state
+  - 递归：
+    - terminator
+    - current logic
+    - drill down
+    - reverse state
   
-  2.分治
-    1)terminator 
-    2)split sub problem
-    3)handle sub problem
-    4)merge sub problem
+  - 分治
+    - terminator 
+    - split sub problem
+    - handle sub problem
+    - merge sub problem
   
-  3.动态规划    
-     1)定义状态
-     2)base case
-     3)状态转移方程 
-  4.深度优先遍历
-    1)回溯算法的典型应用
-    2)所有节点都需要访问
-  5.广度优先遍历
-    1)按层遍历
-  6.贪心算法：认为局部最优解，就是全局的解
+  - 动态规划    
+     - 定义状态
+     - base case
+     - 状态转移方程 
+  - 深度优先遍历
+    - 回溯算法的典型应用
+    - 所有节点都需要访问
+  - 广度优先遍历
+    - 按层遍历
+  - 贪心算法：认为局部最优解，就是全局的解
   
 #### 方法
-  1.寻找问题的最近重复性
-  2.抵制人肉递归
-  3.常用数学归纳法，运用机器思维
-  4.五毒神掌：任何题目一定不要只做一遍，尽量做到5遍
-  5.自顶向下的编程方式
-  6.国际站的好的代码，高票回答
-  7.不要死磕一个题
-  8.刷题四件套：  
-    1)Clarification:反复确认题意
-    2)Possible solution:尽可能多的解题思路，写出尽可能多的解法，进行分析，时间、空间复杂度分析
-    3)Coding:多写
-    4)Test cases:把测试样例多列举几个
+  - 寻找问题的最近重复性
+  - 抵制人肉递归
+  - 常用数学归纳法，运用机器思维
+  - 五毒神掌：任何题目一定不要只做一遍，尽量做到5遍
+  - 自顶向下的编程方式
+  - 国际站的好的代码，高票回答
+  - 不要死磕一个题
+  - 刷题四件套：  
+    - Clarification:反复确认题意
+    - Possible solution:尽可能多的解题思路，写出尽可能多的解法，进行分析，时间、空间复杂度分析
+    - Coding:多写
+    - Test cases:把测试样例多列举几个
 
-## 未来
-  改掉死磕的习惯，任何知识点都要过遍数
-  多思考
-  刻意练习
+## 未来可期
+  - 改掉死磕的习惯，任何知识点都要过遍数
+  - 多思考
+  - 刻意练习
   
 
   
